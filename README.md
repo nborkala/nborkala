@@ -1,6 +1,6 @@
 # Hi there, I'm Nikodem Borkała 👋
 
-I'm a Computer Science in Engineering student at **AGH University of Krakow**, passionate about high-performance computing, computer graphics, and software architecture. My academic and project focus bridges the gap between low-level optimization (C++) and robust backend engineering (Python/FastAPI). 
+I'm a Computer Science in Engineering student at **AGH University of Krakow**, passionate about high-performance computing, computer graphics, and software architecture. My academic and project focus bridges the gap between low-level optimization (C++), computational numerical analysis, and robust backend engineering (Python/FastAPI 
 
 I am actively seeking opportunities where software engineering meets physics and complex data analysis.
 
@@ -13,6 +13,7 @@ I am actively seeking opportunities where software engineering meets physics and
 * **Backend & Data:** Python, FastAPI, SQL (MySQL), Pandas, NumPy, Keras
 * **Tools & OS:** Linux (Ubuntu/Debian), Git, GCC/GDB, Docker
 * **Core Concepts:** Data Structures, Algorithms, SOLID, Memory Management, Kinematics
+**Scientific Computing:** Numerical Methods (ODE Solvers, Linear Algebra, Quadratures, Interpolation, Approximation)
 
 ### 🌱 Beyond the screen
 When I'm not debugging memory leaks or analyzing time/space complexity, you can find me **rock climbing** or exploring new travel destinations. I approach bouldering problems the same way I approach software architecture: assessing risks, breaking down complex obstacles step-by-step, and persevering until it's solved.
