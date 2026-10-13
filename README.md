@@ -5,7 +5,7 @@ I'm a Computer Science in Engineering student at **AGH University of Krakow**, p
 I am actively seeking opportunities to develop myself in this huge world of computer science.
 
 ### 🔭 What I'm currently working on
-- **Construction Cost Estimator App:** Developing a fast and intuitive application designed to streamline rapid construction estimates and quotes. Focused on building a robust logic engine to handle dynamic pricing and material calculations. [Built with: wpisz swój tech stack, np. Python/FastAPI/React]
+- **Construction Cost Estimator App:** Developing a fast and intuitive application designed to streamline rapid construction estimates and quotes. Focused on building a robust logic engine to handle dynamic pricing and material calculations. [Built with: np. Python/FastAPI/React]
 
 ### ⚡ Technical Arsenal
 * **Low-Level & Graphics:** C++, C, OpenGL, GLSL, WebAssembly, Emscripten, CMake
